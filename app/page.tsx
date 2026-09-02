@@ -496,7 +496,7 @@ export default function Home() {
               <p className="text-slate-400 mb-6">Website lead capture</p>
               
               <div className="mb-6">
-                <p className="text-4xl font-black text-white">$197-397<span className="text-lg font-normal text-slate-400">/mo</span></p>
+                <p className="text-4xl font-black text-white">$97-297<span className="text-lg font-normal text-slate-400">/mo</span></p>
               </div>
 
               <ul className="space-y-3 mb-8">
