@@ -408,7 +408,7 @@ export default function Home() {
               <div className="flex items-center justify-between pt-4 border-t border-white/10">
                 <div>
                   <p className="text-slate-400 text-sm">Starting at</p>
-                  <p className="text-2xl font-black text-white">$397<span className="text-lg font-normal text-slate-400">/mo</span></p>
+                  <p className="text-2xl font-black text-white">$297<span className="text-lg font-normal text-slate-400">/mo</span></p>
                 </div>
                 <a 
                   href="https://hvacai247.com" 
@@ -534,7 +534,7 @@ export default function Home() {
               <p className="text-slate-400 mb-6">Full phone automation</p>
               
               <div className="mb-6">
-                <p className="text-4xl font-black text-white">$397-999<span className="text-lg font-normal text-slate-400">/mo</span></p>
+                <p className="text-4xl font-black text-white">$297-999<span className="text-lg font-normal text-slate-400">/mo</span></p>
               </div>
 
               <ul className="space-y-3 mb-8">
